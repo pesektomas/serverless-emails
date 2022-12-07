@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "aws-sdk": "^2.582.0",
-    "serverless": "^1.58.0",
+    "serverless": "^3.25.1",
     "serverless-iam-roles-per-function": "^1.0.4"
   },
   "scripts": {
